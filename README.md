@@ -33,8 +33,8 @@ To run the project, you need **Python 3** and the following dependencies:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/statistical-analysis.git
-   cd statistical-analysis
+   git clone https://github.com/HunarAgrawal/Estimation_Theory.git
+   cd Estimation_Theory
 2. **Install required libraries**:
    ```bash
    pip install scipy math
